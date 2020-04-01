@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395420212162",
+    "firebase_url": "https://controlgastos-94c31.firebaseio.com",
+    "project_id": "controlgastos-94c31",
+    "storage_bucket": "controlgastos-94c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395420212162:android:1620fa51f053bc1742545b",
+        "android_client_info": {
+          "package_name": "com.example.controlgastos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395420212162-h2jf91jdd8cff0npf830b5gu211igonq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVD8e68TkgyQjfMqMLbqyQIYlqStRUykQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395420212162-h2jf91jdd8cff0npf830b5gu211igonq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
